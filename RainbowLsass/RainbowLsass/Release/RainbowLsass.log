@@ -1,0 +1,2 @@
+﻿dllmain.obj : error LNK2001: unresolved external symbol _WTSSendMessageA@40
+D:\RainbowLsass\Release\RainbowLsass.dll : fatal error LNK1120: 1 unresolved externals
